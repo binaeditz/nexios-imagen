@@ -15,8 +15,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "AI SDK Image Generator",
-  description: "An open-source AI image generator using the AI SDK by Vercel",
+  title: "Nexios iMAGEN",
+  description: "An open-source AI image generator by nexios.",
 };
 
 export default function RootLayout({

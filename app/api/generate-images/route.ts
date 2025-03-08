@@ -22,7 +22,7 @@ const providerConfig: Record<ProviderKey, ProviderConfig> = {
   fireworks: {
     createImageModel: fireworks.image,
     dimensionFormat: "aspectRatio",
-};
+},
 
 const withTimeout = <T>(
   promise: Promise<T>,
